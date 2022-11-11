@@ -3,7 +3,7 @@
 #### My name is Nafi.I am a Web Developer.
 
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
-<img align="right" alt="animated_gif" width="185" src="https://www.0xjbr.com/content/images/2022/05/335f6d0c74c29626008bae58feb98808.gif">
+<img align="right" alt="animated_gif" width="185" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 I am a student. I am not a professional. I'm still learning coding.😁
 
