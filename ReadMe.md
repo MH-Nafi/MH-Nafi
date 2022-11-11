@@ -14,7 +14,7 @@ Skills: HTML / CSS/ PHP
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
-![Profile views](https://gpvc.arturio.dev/MH-Nafi)
+![Nafi's Profile views](https://gpvc.arturio.dev/MH-Nafi)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MH-Nafi)](https://github.com/ryo-ma/github-profile-trophy)
 
