@@ -6,6 +6,7 @@
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
+<img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
 I am a student. I am not a professional. I'm still learning coding.😁
 
 Skills: HTML / CSS/ PHP
