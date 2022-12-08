@@ -1,4 +1,4 @@
-![I am a Web Developer](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/285286660_3102753173309428_3334077429618072612_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=WMVfQR2E64MAX9n5sSp&_nc_ht=scontent-sin6-2.xx&oh=00_AfBVRqY-xIVRdanQfRmJVMXSY6c5o2-DZTOJGLxSXCpdgg&oe=6383AC1B)
+![I am a Web Developer]https://avatars.githubusercontent.com/u/116264210?s=400&u=4ae91f80456b43d26b924ab464cbdfaf42624bd8&v=4
 ### Hello 👋, 
 #### My name is Nafi.I am a Web Developer.
 
