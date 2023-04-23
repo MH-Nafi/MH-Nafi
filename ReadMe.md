@@ -1,4 +1,4 @@
-![I am a Web Developer] https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/285286660_3102753173309428_3334077429618072612_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHVLIL9iD2t8yh51MZ4L5EQlxVvBs8x8iaXFW8GzzHyJlN5w_y2epoasZwroTYzFaKLEH4h1ixOJvwq7eWFfydA&_nc_ohc=bRzvRvF_0HMAX8aO1-r&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCRBH2TKG_QmrTw6kiUlUxYY7dq2LiOdASKkjIasp4TTg&oe=64496D1B
+![I am a Web Developer]
 #### My name is Nafi.I am a Web Developer.
 
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
