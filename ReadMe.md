@@ -1,5 +1,5 @@
-![I am a Web Developer](https://media0.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif)
-#### My name is Nafi.I am a Web Developer.
+![I am a Web Developer](https://www.mohenesh.com/wp-content/uploads/2021/11/Doge-meme-2.webp)
+#### My name is Nafi. I am a Web Developer.
 
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
 <img align="right" alt="animated_gif" width="185" src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-max-1mb.gif">
