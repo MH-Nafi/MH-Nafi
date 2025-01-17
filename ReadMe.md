@@ -13,9 +13,6 @@ Skills: HTML / CSS/ PHP
 - 👯 I’m looking to collaborate on GitHub. 
 - ⚡ Fun fact: I hate programming languages.
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-
-![Profile views](https://gpvc.arturio.dev/MH-Nafi)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MH-Nafi)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -27,4 +24,3 @@ Skills: HTML / CSS/ PHP
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MH-Nafi)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MH-Nafi)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/captain.naff)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hiding__inside/)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hiding__inside)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/mh_nafi)
